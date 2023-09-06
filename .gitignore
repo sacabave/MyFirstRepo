@@ -1,0 +1,12 @@
+/text-1.txt
+/test-2.txt
+
+/script.js
+/index.html
+
+# Auto generated files
+auto-gen-files/a.txt.txt
+auto-gen-files/b.txt.txt
+auto-gen-files/c.txt.txt
+
+#auto-gen-files/*
